@@ -27,7 +27,7 @@ Shortcode for Hooniverse group chat:
 0. [Introduction to Computing and Development](./ha0/README.md)
 1. [Introduction to Urbit and Hoon](./ha1/README.md)
 2. [Using the Subject, Syntax, and Auras](./ha2/README.md)
-3. [Molds and Decision Making](./hw3/README.md)
+3. [Molds and Decision Making](./ha3/README.md)
 
 ### Disclaimer
 
