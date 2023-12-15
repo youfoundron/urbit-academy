@@ -1,17 +1,17 @@
 # Urbit Academy
-This repository is meant to track my progress as an [Urbit](https://urbit.org/) ecosystem developer
-
-I am intrigued by Urbit's technology and am following along with the resources offered in the [Urbit Foundation's documentation](https://docs.urbit.org/courses/urbit-academy)
+This repository will be used to mark my progress as an [Urbit](https://urbit.org/) developer through the Urbit Foundation's [Urbit Academy](https://docs.urbit.org/courses/urbit-academy) course series.
 
 ## Courses
 1. [Hoon Academy](./hoon-academy/README.md) (Fall '23)
-2. App Academy (N/A)
-3. App Workshop (N/A)
-4. Core Academy (N/A)
+2. App Academy (Not started)
+3. App Workshop (Not started)
+4. Core Academy (Not started)
 
 ## About Me
 My `@p` is [~ronnys-rigwet](https://network.urbit.org/~ronnys-rigwet)
 
-Check out my cycling focused group [Bike Shed](https://join.tlon.io/ronnys-rigwet-bike-shed)
+My ship is self-hosted on a spare laptop using [GroundSeg](https://manual.groundseg.app/)
+
+I host a cycling focused Urbit community group called [Bike Shed](https://join.tlon.io/ronnys-rigwet-bike-shed)
 
 Hope to see you on the network!
