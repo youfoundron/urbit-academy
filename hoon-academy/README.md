@@ -1,11 +1,8 @@
 # Hoon Academy
 
-I am tracking my progress as a student of the Fall '23 [Hoon Academy](https://docs.urbit.org/courses/urbit-academy/ha) cohort.
-
-This repository will be used to show the work for answers to each lesson's homework questions.
-
-Additionally I hope it may serve as a resource for current and future students trying to unblock themselves.
-
+I am tracking my progress as a student of the Fall '23 [Hoon Academy](https://docs.urbit.org/courses/urbit-academy/ha) cohort.  
+This repository will be used to show the work for answers to each lesson's homework questions.  
+Additionally I hope it may serve as a resource for current and future students trying to unblock themselves.  
 Special thanks to [~tamlut-modnys](https://github.com/tamlut-modnys) for all of the hard work put into the lessons.
 
 ## Course Resources
@@ -31,12 +28,9 @@ Shortcode for Hooniverse group chat:
 
 ### Disclaimer
 
-Give each question your best shot and consulting other classmates before looking to this repository for answers.
-
+Give each question your best shot and consulting other classmates before looking to this repository for answers.  
 I cannot guarantee my answers are correct and it is unlikely I will cover _every single question_ in the homeworks.  
-
-If you find any mistakes or wish for a specific question to be included, please [submit an issue](https://github.com/youfoundron/urbit-academy/issues/new).
-
+If you find any mistakes or wish for a specific question to be included, please [submit an issue](https://github.com/youfoundron/urbit-academy/issues/new).  
 Additionally you may contact me via Urbit -- my `@p` is **~ronnys-rigwet**
 
 Godspeed hooner!
