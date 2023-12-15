@@ -4,7 +4,13 @@
 
 :: Start with your code from Q6/Q7.
 
-:: Define a type union animal and cell type animal-tracker as before. Then declare an instance of the type animal-tracker. Then return the instance with the value meals incremented by some number, depending on the animal. The animals have different feeding requirements, so meals should go up by a different number depending on the animal.
+:: Define a type union animal and cell type animal-tracker as before.
+:: Then declare an instance of the type animal-tracker.
+:: Then return the instance with the value "meals" incremented by some number,
+:: depending on the animal.
+
+:: The animals have different feeding requirements,
+:: so meals should go up by a different number depending on the animal.
 
 :: If an example value is:
 :: [%cow 'connie' 5]
@@ -60,19 +66,16 @@
   ,[species=animal name=@t meals=@ud]  
 =/  =animal-tracker
   [%tiger 'tony' 0]
-?-    species.animal-tracker
-    %wolf
-  =.(meals.animal-tracker (add meals.animal-tracker 1) animal-tracker)
-::
-    %eagle
-  =.(meals.animal-tracker (add meals.animal-tracker 1) animal-tracker)
-::
-    %lion
-  =.(meals.animal-tracker (add meals.animal-tracker 2) animal-tracker)
-::
-    %tiger
-  =.(meals.animal-tracker (add meals.animal-tracker 2) animal-tracker)
-::
-    %bear
-  =.(meals.animal-tracker (add meals.animal-tracker 3) animal-tracker)
-==
+=/  feedings-map
+  (map animal @ud)
+=.  meals.animal-tracker
+  %+  add
+    meals.animal-tracker
+  ?-  species.animal-tracker
+    %wolf   1
+    %eagle  1
+    %lion   2
+    %tiger  2
+    %bear   3
+  ==
+animal-tracker

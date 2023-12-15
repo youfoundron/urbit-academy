@@ -20,7 +20,7 @@ Shortcode for Hooniverse group chat:
 
 ### On Clearweb (not on urbit)
 
-[Syllabus](https://docs.google.com/document/d/1LQL4B59B0uK75KFSErb-BFJ8pbhVxyoyA1tRiv4RBlc/edit#heading=h.kszzveo5tbp3) | [Lesson Notes](https://github.com/tamlut-modnys/curriculum/tree/main/ha-23-3) | [Urbit Hacker House](https://app.gather.town/app/xAYeiPI2XDYhRM9t/urbit-hacker-house) | [Hoon Reference Docs](https://docs.urbit.org/language/hoon/reference)
+[Syllabus](https://docs.google.com/document/d/1LQL4B59B0uK75KFSErb-BFJ8pbhVxyoyA1tRiv4RBlc/edit#heading=h.kszzveo5tbp3) | [Lesson Notes](https://github.com/tamlut-modnys/curriculum/tree/main/ha-23-3) | [Urbit Hacker House](https://app.gather.town/app/xAYeiPI2XDYhRM9t/urbit-hacker-house) | [Hoon Reference Docs](https://docs.urbit.org/language/hoon/reference) | [Hoon Cheat Sheet](https://storage.googleapis.com/media.urbit.org/docs/hoon-cheat-sheets-2023-01-10.pdf)
 
 ## Lessons
 
