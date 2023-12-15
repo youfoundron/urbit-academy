@@ -6,7 +6,8 @@ I am intrigued by Urbit's technology and am following along with the resources o
 ## Courses
 1. [Hoon Academy](./hoon-academy/README.md) (Fall '23)
 2. App Academy (N/A)
-3. Core Academy (N/A)
+3. App Workshop (N/A)
+4. Core Academy (N/A)
 
 ## About Me
 My `@p` is [~ronnys-rigwet](https://network.urbit.org/~ronnys-rigwet)
