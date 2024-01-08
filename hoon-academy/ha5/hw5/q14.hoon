@@ -30,26 +30,23 @@
 
 
 :: Answer
-=>
-|%
-++  $  "as"
-++  core-in-arm
-  |%
-  ++  $  "ure"
-  --
---
-=>
-|% 
-++  $  "dirt"
---
-=>
-|%
-++  $  "dirt"
-++  core-in-arm
-  |%
-  ++  $  "tre"
-  --
---
+=>  =>  |%
+        ++  $  "as"
+        ++  core-in-arm
+          |%
+          ++  $  "ure"
+          --
+        --
+    =>  |% 
+        ++  $  "dirt"
+        --
+    |%
+    ++  $  "dirt"
+    ++  core-in-arm
+      |%
+      ++  $  "tre"
+      --
+    --
 %+  weld
   $:core-in-arm
 %+  weld

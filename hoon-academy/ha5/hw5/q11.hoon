@@ -7,10 +7,10 @@
 |%
 ++  $  "buried treasure"
 --
-=>
 |%
 ++  $  "dirt"
 --
+^$
 
 :: Using  => or =<, set this core as the subject and return the text "buried treasure"
 
@@ -18,12 +18,10 @@
 
 
 :: Answer
-=>
-|%
-++  $  "buried treasure"
---
-=>
-|%
-++  $  "dirt"
---
+=>  =>  |%
+        ++  $  "buried treasure"
+        --
+    |%
+    ++  $  "dirt"
+    --
 ^$
