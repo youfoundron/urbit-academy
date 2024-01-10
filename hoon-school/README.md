@@ -4,6 +4,6 @@ This directory contains my answers to exercises from the [Hoon School](https://d
 
 ## Sections
 
-1. [Hoon Syntax](./01_hoon_syntax/README.md)
-2. [Azimuth (Urbit ID)](./02_azimuth/README.md)
-
+1. [Hoon Syntax](./01-hoon-syntax/README.md)
+2. [Azimuth (Urbit ID)](./02-azimuth/README.md)
+3. [Gates (Functions)](./03-gates/README.md)
