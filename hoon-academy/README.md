@@ -27,6 +27,7 @@ Shortcode for Hooniverse group chat:
 3. [Molds and Decision Making](./ha3/README.md)
 4. [Working with Lists and Text](./ha4/README.md)
 5. [Cores](./ha5/README.md)
+6. [Exploring the Power of Cores](./ha6/README.md)
 
 ### Disclaimer
 
