@@ -29,6 +29,7 @@ Shortcode for Hooniverse group chat:
 5. [Cores](./ha5/README.md)
 6. [Exploring the Power of Cores](./ha6/README.md)
 7. [Exploring the System and the Standard Library](./ha7/README.md)
+8. [Building Production Code and Looking Towards the Future](./ha8/README.md)
 
 ### Disclaimer
 
