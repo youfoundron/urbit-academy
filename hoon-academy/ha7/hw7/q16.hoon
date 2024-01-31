@@ -6,7 +6,6 @@
 
 
 :: Answer
-=/  lth-100
-  |=  a=@
-  ((curr lth 100) a)
+=/ lth-100
+  (curr lth 100)
 (lth-100 99)
