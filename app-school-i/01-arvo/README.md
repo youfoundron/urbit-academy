@@ -1,6 +1,6 @@
 # Arvo
 
-This directory contains my response to sections from the [Hoon Syntax](https://docs.urbit.org/courses/hoon-school/B-syntax) portion of the App School I docs.
+This directory contains my response to sections from the [Avro](https://docs.urbit.org/courses/app-school/1-arvo) portion of the App School I docs.
 
 ## Sections
 
