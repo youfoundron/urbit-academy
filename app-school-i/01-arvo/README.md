@@ -4,4 +4,4 @@ This directory contains my response to sections from the [Avro](https://docs.urb
 
 ## Sections
 
-* [Environment Setup](https://docs.urbit.org/courses/app-school/1-arvo#environment-setup) - [answer](./environment-setup/README.md)
+* [Environment Setup](https://docs.urbit.org/courses/app-school/1-arvo#environment-setup) - [response](./environment-setup/README.md)
