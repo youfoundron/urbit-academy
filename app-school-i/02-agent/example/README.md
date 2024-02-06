@@ -76,4 +76,4 @@ In dojo:
 +.skeleton
 ```
 
-We'll see its head is the `bowl:gall`` sample we specified, and then the tail is just all the usual standard library functions.
+We'll see its head is the `bowl:gall` sample we specified, and then the tail is just all the usual standard library functions.
