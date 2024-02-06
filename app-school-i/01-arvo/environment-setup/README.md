@@ -3,13 +3,13 @@
 ## Create a new desk
 To create a new desk, you can merge from an existing one (typically `%base`).
 
-#### Merge by running the following:
+#### Merge by running the following
 In dojo:
 ```
 |merge %mydesk our %base
 ```
 
-#### Mount your new desk afterwards:
+#### Mount your new desk afterwards
 In dojo:
 ```
 |mount %mydesk
@@ -55,4 +55,6 @@ cp -ruv mydesk/* /path/to/fake/zod/mydesk
 ```
 
 Then just commit them in the dojo:
+```
 |commit %mydesk
+```
