@@ -9,7 +9,7 @@ This repository will be used to mark my progress as an [Urbit](https://urbit.org
 
 ## [Tutorials](https://docs.urbit.org/courses#tutorials)
 1. [Hoon School](./hoon-school/README.md)
-2. App School (No exercises completed)
+2. [App School I](./app-school-i/README.md)
 3. App School II (No exercises completed)
 
 ## About Me
