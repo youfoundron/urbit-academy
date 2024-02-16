@@ -9,3 +9,4 @@ This directory contains my answers to exercises from the [Hoon School](https://d
 3. [Gates (Functions)](./03-gates/README.md)
 4. Molds (Types)
 5. [Cores](./05-cores/README.md)
+6. [Trees and Addressing](./06-trees/README.md)
