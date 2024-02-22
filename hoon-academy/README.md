@@ -21,15 +21,15 @@ Shortcode for Hooniverse group chat:
 
 ## Lessons
 
-0. [Introduction to Computing and Development](./ha0/README.md)
-1. [Introduction to Urbit and Hoon](./ha1/README.md)
-2. [Using the Subject, Syntax, and Auras](./ha2/README.md)
-3. [Molds and Decision Making](./ha3/README.md)
-4. [Working with Lists and Text](./ha4/README.md)
-5. [Cores](./ha5/README.md)
-6. [Exploring the Power of Cores](./ha6/README.md)
-7. [Exploring the System and the Standard Library](./ha7/README.md)
-8. [Building Production Code and Looking Towards the Future](./ha8/README.md)
+0. [Introduction to Computing and Development](./ha0-intro-to-computing/README.md)
+1. [Introduction to Urbit and Hoon](./ha1-intro-to-urbit-and-hoon/README.md)
+2. [Using the Subject, Syntax, and Auras](./ha2-using-the-subject-syntax-and-auras/README.md)
+3. [Molds and Decision Making](./ha3-molds-and-decision-making/README.md)
+4. [Working with Lists and Text](./ha4-working-with-lists-and-text/README.md)
+5. [Cores](./ha5-cores/README.md)
+6. [Exploring the Power of Cores](./ha6-exploring-the-power-of-cores/README.md)
+7. [Exploring the System and the Standard Library](./ha7-exploring-the-system-and-standard-library/README.md)
+8. [Building Production Code and Looking Towards the Future](./ha8-building-production-code/README.md)
 
 ### Disclaimer
 
