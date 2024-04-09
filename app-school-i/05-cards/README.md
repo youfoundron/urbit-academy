@@ -1,4 +1,4 @@
-# Lifecycle
+# Cards
 
 This directory contains my response to sections from the [Cards](https://docs.urbit.org/courses/app-school/5-cards) portion of the App School I docs.
 
