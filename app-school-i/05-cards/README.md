@@ -4,5 +4,5 @@ This directory contains my response to sections from the [Cards](https://docs.ur
 
 ## Sections
 
-* [`%pass`](https://docs.urbit.org/courses/app-school/5-cards#pass) - [response](./%pass/README.md)
-* [`%give`](https://docs.urbit.org/courses/app-school/5-cards#give) - [response](./%give/README.md)
+* [`%pass`](https://docs.urbit.org/courses/app-school/5-cards#pass) - [response](./%25pass/README.md)
+* [`%give`](https://docs.urbit.org/courses/app-school/5-cards#give) - [response](./%25give/README.md)
