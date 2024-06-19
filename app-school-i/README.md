@@ -9,3 +9,4 @@ This directory contains my responses to exercises and activities from the [App S
 3. [Imports and Aliases](./03-imports-and-aliases/README.md)
 4. [Lifecycle](./04-lifecycle/README.md)
 5. [Cards](./05-cards/README.md)
+6. [Pokes](./06-pokes/README.md)
