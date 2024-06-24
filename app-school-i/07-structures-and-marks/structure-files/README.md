@@ -19,15 +19,13 @@ Additionally, if someone wanted to write an agent that interfaces with yours, th
 
 ## Example
 
-### `todo.hoon`
-
 #### In the dojo of a fake ship, mount the base desk:
 In dojo:
 ```
 |mount %base
 ```
 
-#### Copy the structire file into the `/sur` of the base desk
+#### Copy the structure file into the `/sur` of the base desk
 In unix:
 ```
 cp ./sur/todo.hoon /path/to/fake/ship/zod/base/sur
