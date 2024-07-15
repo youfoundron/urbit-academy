@@ -1,5 +1,7 @@
 # App Academy Lesson 0
-Introduction to Computing and Development
+This lesson covers:
+- Describe how Gall instruments an agent using standard arms.
+- Produce a minimal working example of an agent.
 
 ## Lesson Resources
 [Homework](https://docs.google.com/forms/d/e/1FAIpQLSce5iUYp_vIqvSatZ7cir3CslSVNHtvdeeAbYoEt1YOYC9YUA/viewform) | [Video](https://www.youtube.com/watch?v=gontiEKkgDQ)
