@@ -3,7 +3,7 @@ This repository will be used to mark my progress as an [Urbit](https://urbit.org
 
 ## [Courses](https://docs.urbit.org/courses/urbit-academy)
 1. [Hoon Academy](./hoon-academy/README.md) (Fall '23)
-2. App Academy (Not started)
+2. [App Academy](./app-academy/README.md) (self-guided)
 3. App Workshop (Not started)
 4. Core Academy (Not started)
 
