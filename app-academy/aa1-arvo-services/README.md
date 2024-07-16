@@ -22,5 +22,5 @@ This lesson covers:
 ## Homework Questions
 Q1. [Match the functionality to a vane](./hw1/q01.hoon)  
 Q2. [Complete the “Writing Marks” tutorial](./hw1/q02.hoon)  
-Q3. [Exampine the code in `app/test.hoon`](./hw1/q03.hoon)
+Q3. [Exampine the code in `app/test.hoon`](./hw1/q03.hoon)  
 Q4. [Egg timer app](./hw1/q04.hoon)
