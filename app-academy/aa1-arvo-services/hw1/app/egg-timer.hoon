@@ -16,7 +16,7 @@
     [%pass /egg-timer %arvo %b %wait (add now.bowl t)]~
   ::
   :: Print the first card in the list
-  ~&  -.card-list
+  ~&  (head card-list)
   ::
   :: The `:_` (colcab) rune makes an inverted cell;
   :: it's just `:-` but with the head and tail swapped.
