@@ -1,4 +1,4 @@
-:: Q2. Math the arm to its function 
+:: Q2. Map the arm to its function 
 
 :: Arms
 ::
