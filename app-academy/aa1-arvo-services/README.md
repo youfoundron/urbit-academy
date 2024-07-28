@@ -17,7 +17,7 @@ This lesson covers:
 - Explain the services :👅Lick will provide to the system.
 
 ## Lesson Resources
-[Homework](https://docs.google.com/forms/d/e/1FAIpQLSdx1LdgH-JuAZn_E4RkfaXOTFSjguLgKcDWnO5SzFsK8VtxZA/viewform) | [Video](https://www.youtube.com/watch?v=ZPy8wIc8fZY)
+[Notes](https://github.com/hoon-school/app-school-2023.8/blob/master/aa1.md) | [Homework](https://docs.google.com/forms/d/e/1FAIpQLSdx1LdgH-JuAZn_E4RkfaXOTFSjguLgKcDWnO5SzFsK8VtxZA/viewform) | [Video](https://www.youtube.com/watch?v=ZPy8wIc8fZY)
 
 ## Homework Questions
 Q1. [Match the functionality to a vane](./hw1/q01.hoon)  

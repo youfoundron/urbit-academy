@@ -17,7 +17,7 @@ Shortcode for **[battery payload]** group chat:
 
 ### On Clearweb (not on urbit)
 
-[Playlist](https://www.youtube.com/watch?v=gontiEKkgDQ&list=PLR4NQL5fPgqoXPLS-xbfa_s3T_eOJAguy) | [Urbit Hacker House](https://app.gather.town/app/xAYeiPI2XDYhRM9t/urbit-hacker-house) | [App Docs](https://docs.urbit.org/userspace/apps)
+[Lesson Notes](https://github.com/hoon-school/app-school-2023.8) | [Playlist](https://www.youtube.com/watch?v=gontiEKkgDQ&list=PLR4NQL5fPgqoXPLS-xbfa_s3T_eOJAguy) | [Urbit Hacker House](https://app.gather.town/app/xAYeiPI2XDYhRM9t/urbit-hacker-house) | [App Docs](https://docs.urbit.org/userspace/apps)
 
 ## Lessons
 

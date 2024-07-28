@@ -4,7 +4,7 @@ This lesson covers:
 - Produce a minimal working example of an agent.
 
 ## Lesson Resources
-[Homework](https://docs.google.com/forms/d/e/1FAIpQLSce5iUYp_vIqvSatZ7cir3CslSVNHtvdeeAbYoEt1YOYC9YUA/viewform) | [Video](https://www.youtube.com/watch?v=gontiEKkgDQ)
+[Notes](https://github.com/hoon-school/app-school-2023.8/blob/master/aa0.md) | [Homework](https://docs.google.com/forms/d/e/1FAIpQLSce5iUYp_vIqvSatZ7cir3CslSVNHtvdeeAbYoEt1YOYC9YUA/viewform) | [Video](https://www.youtube.com/watch?v=gontiEKkgDQ)
 
 ## Homework Questions
 Q2. [Map the arm to its function](./hw0/q02.hoon)  
