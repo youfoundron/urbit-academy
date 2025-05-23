@@ -1,7 +1,7 @@
 # Urbit Academy
-This repository will be used to mark my progress as an [Urbit](https://urbit.org/) developer through the Urbit Foundation's [Urbit Academy](https://docs.urbit.org/courses/urbit-academy) course series.
+This repository will be used to mark my progress as an [Urbit](https://urbit.org/) developer through the [Urbit Foundation's course series](https://docs.urbit.org/courses).
 
-## [Courses](https://docs.urbit.org/courses/urbit-academy)
+## Live Courses
 1. [Hoon Academy](./hoon-academy/README.md) (Fall '23)
 2. [App Academy](./app-academy/README.md) (self-guided)
 3. App Workshop (Not started)
