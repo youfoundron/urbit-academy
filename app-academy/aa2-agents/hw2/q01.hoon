@@ -1,5 +1,5 @@
 :: Q1. Complete the “Todo App” tutorial at
-:: https://docs.urbit.org/courses/app-school/8-subscriptions#example
+:: https://docs.urbit.org/build-on-urbit/app-school/8-subscriptions#example
 
 :: Add at least three tasks, then subscribe with %todo-watcher
 :: and paste the resulting notification from the subscription below.

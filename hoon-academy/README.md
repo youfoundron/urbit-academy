@@ -1,6 +1,6 @@
 # Hoon Academy
 
-I am tracking my progress as a student of the Fall '23 [Hoon Academy](https://docs.urbit.org/courses/urbit-academy/ha) cohort.  
+I am tracking my progress as a student of the Fall '23 [Hoon Academy](https://docs.urbit.org/build-on-urbit/urbit-academy/ha) cohort.  
 This repository will be used to show the work for answers to each lesson's homework questions.  
 Additionally I hope it may serve as a resource for current and future students trying to unblock themselves.  
 Special thanks to [~tamlut-modnys](https://github.com/tamlut-modnys) for all of the hard work put into the lessons.

@@ -1,6 +1,6 @@
 # Hoon School
 
-This directory contains my answers to exercises from the [Hoon School](https://docs.urbit.org/courses/hoon-school) documentation organized by their respective sections.
+This directory contains my answers to exercises from the [Hoon School](https://docs.urbit.org/build-on-urbit/hoon-school) documentation organized by their respective sections.
 
 ## Sections
 

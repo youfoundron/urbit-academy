@@ -1,6 +1,6 @@
 # App School I
 
-This directory contains my responses to exercises and activities from the [App School I](https://docs.urbit.org/courses/app-school) documentation organized by their respective sections.
+This directory contains my responses to exercises and activities from the [App School I](https://docs.urbit.org/build-on-urbit/app-school) documentation organized by their respective sections.
 
 ## Sections
 

@@ -1,6 +1,6 @@
 # Hoon Academy
 
-I am tracking my progress as a self-guided student through pre-recorded [App Academy](https://docs.urbit.org/courses/urbit-academy/aa) lessons.  
+I am tracking my progress as a self-guided student through pre-recorded [App Academy](https://docs.urbit.org/build-on-urbit/urbit-academy/aa) lessons.  
 This repository will be used to show the work for answers to each lesson's homework questions.
 
 Special thanks to [~lagrev-nocfep](https://github.com/sigilante) for all of the hard work put into the lessons.

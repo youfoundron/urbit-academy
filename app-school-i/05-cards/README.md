@@ -1,6 +1,6 @@
 # Cards
 
-This directory contains my response to sections from the [Cards](https://docs.urbit.org/courses/app-school/5-cards) portion of the App School I docs.
+This directory contains my response to sections from the [Cards](https://docs.urbit.org/build-on-urbit/app-school/5-cards) portion of the App School I docs.
 
 ## Card Type
 Defined in `lull.hoon`:
@@ -30,8 +30,8 @@ This means a `card`, must be one of:
 
 ## Sections
 
-* [`%pass`](https://docs.urbit.org/courses/app-school/5-cards#pass) - [response](./%25pass/README.md)
-* [`%give`](https://docs.urbit.org/courses/app-school/5-cards#give) - [response](./%25give/README.md)
+* [`%pass`](https://docs.urbit.org/build-on-urbit/app-school/5-cards#pass) - [response](./%25pass/README.md)
+* [`%give`](https://docs.urbit.org/build-on-urbit/app-school/5-cards#give) - [response](./%25give/README.md)
 
 
 ## Summary
